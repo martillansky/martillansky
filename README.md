@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Contact](https://img.shields.io/badge/📧%20Contact-Get%20in%20touch-black?style=for-the-badge&labelColor=ff6a00&logo=gmail&logoColor=white)](mailto:martin.moguillansky@gmail.com)
-[![Projects](https://img.shields.io/badge/🚀%20Projects-DeFi%20%7C%20AA%20%7C%20Indexers-black?style=for-the-badge&labelColor=ff6a00)](https://github.com/martillansky)
+[![Projects](https://img.shields.io/badge/🚀%20Projects-DApps%20%7C%20DeFi%20%7C%20AA%20%7C%20Indexers-black?style=for-the-badge&labelColor=ff6a00)](https://github.com/martillansky)
 [![GitHub](https://img.shields.io/badge/💻%20GitHub-@martillansky-black?style=for-the-badge&labelColor=ff6a00&logo=github&logoColor=white)](https://github.com/martillansky)
 
 </div>
@@ -25,8 +25,6 @@
 
 <br/>
 
----
-
 ## 👨‍💻 About Me
 
 I engineer end-to-end **decentralized applications (dApps)** focused on DeFi infrastructure, cross-chain interoperability, and protocol reliability, combining smart-contract architecture with scalable backend systems. My work centers on EVM-based protocols, canonical PostgreSQL schemas, and asynchronous Python/FastAPI indexers optimized for real-time data ingestion across multiple chains.
@@ -37,12 +35,65 @@ I also build keeper bots and automation pipelines powered by Safe-based batched 
 <div align="left">
 
 - **Frontend:** `React`, `Next.js`, `TypeScript`, `Redux-Saga`, `Tailwind CSS`, `Ethers.js`, `Viem`, `Wagmi`, `Tanstack`
+
+<br/>
+
+<div align="center">
+
+![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,typescript,javascript,redux,tailwind,reactquery&perline=13&titles=true&theme=dark)
+
+</div>
+
 - **Backend:** `NestJS`, `Node.js`, `Python` (FastAPI, Asyncio, Web3.py)
-- **Smart Contracts:** `Solidity`, `Foundry`, `Hardhat`, `The Graph` (AssemblyScript), `OpenZeppelin`, TokenBase's AM-Bridge
-- **Data / Infra:** `PostgreSQL`, `Supabase`, `Redis` Message broker, `Websockets`, `Docker`, `Render`, `Netlify`, `Heroku`, `Firebase`
-- **DevOps / CI-CD:** `GitHub Actions`, `Docker Compose`
+
+<br/>
+
+<div align="center">
+
+![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=nest,nodejs,python,fastapi&perline=13&titles=true&theme=dark)
+
+</div>
+
+- **Smart Contracts (EVM):** `Solidity`, `Foundry`, `Hardhat`, `The Graph` (AssemblyScript), `OpenZeppelin`, TokenBase's AM-Bridge
 - **Wallets / Protocols:** `Safe` (4337), `Privy`, `Coinbase CDP`, `Thirdweb`, `Snapshot`, `SafeSnap`
+
+<br/>
+
+<div align="center">
+
+![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=ethereum,solidity,foundry,hardhat,openzeppelin&perline=13&titles=true&theme=dark)
+
+</div>
+
+- **Data / Infra:** `PostgreSQL`, `Supabase`, `Redis` Message broker, `Websockets`, `Docker`, `Render`, `Netlify`, `Heroku`, `Firebase`
+
+<br/>
+
+<div align="center">
+
+![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=postgres,prisma,redis,docker,render,netlify,heroku,firebase&perline=13&titles=true&theme=dark)
+
+</div>
+
+- **DevOps / CI-CD:** `GitHub Actions`, `Docker Compose`
+
+<br/>
+
+<div align="center">
+
+![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=git,github,docker&perline=13&titles=true&theme=dark)
+
+</div>
+
 - **Analytics:** `Numpy`, `Pandas`, `Matplotlib`, `Seaborn`
+
+<br/>
+
+<div align="center">
+
+![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn&perline=13&titles=true&theme=dark)
+
+</div>
 
 </div>
 
@@ -57,49 +108,21 @@ I also build keeper bots and automation pipelines powered by Safe-based batched 
 - **ERC-1155** – Multi-token permissioned access control
 - **ERC-4626 / ERC-7540** – Tokenized vaults, async deposit/withdraw settlement
 
-<br/>
+</br>
 
-<div align="center">
+## 🚩 Web3 Open Source Projects
 
-![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,react,reactquery,nextjs,html,css,redux,nodejs,nest,python,fastapi,redis,solidity,ethereum,foundry,hardhat,postgres,prisma,docker,git,github,vscode,cursor,npm,yarn&perline=13&titles=true&theme=dark)
+### 💎 OP as Venture Studio - DAMM Capital — Lagoon (Backend)
 
-</div>
-
-<!-- ---
-
-## 🔭 What I Build
-
-### 🗄️ Backend & Indexing
-
-Real-time event indexers built with **Python / FastAPI**, time-series snapshots, and canonical **Postgres schemas** with partitions and Row-Level Security (RLS).
-
-### 🤖 Automation & Keepers
-
-Keeper bots that monitor, settle, and rebalance via **Safe** batched transactions with robust retry mechanisms and comprehensive observability.
-
-### 🔐 Smart Accounts / Account Abstraction
-
-**Account Abstraction** implementations for **DAMM Capital/Lagoon** using **Safe 4337 + Privy**. For the **DAMM World mini‑app**, I leverage **Safe Smart Accounts** to deliver seamless user experiences.
-
-### 📜 Smart Contracts & Security
-
-Modular vault systems, **EIP‑712** signing flows, **ERC‑1155** access models, with clear on/off-chain boundary design for maximum security and auditability. -->
-
----
-
-## 🚩 Open Source Projects
-
-### 💎 DAMM Capital — Lagoon (Backend)
-
-**Role:** Lead Developer @ **WakeUp Labs**
+**Role:** Lead Developer @ **WakeUp Labs & DAMM Capital**
 
 **Stack:** `Python` `FastAPI` `PostgreSQL` `Docker` `Render` `Solidity` `Safe SDK`
 
 **Key Features:**
 
-- 🗄️ Canonical **Postgres data model** for vaults: `events` → specialized request tables with partitioned **snapshots** for analytics
+- 🗄️ Canonical **Postgres data model** for multichain Lagoon vaults: `events` → specialized request tables with partitioned **snapshots** for analytics
 - ⚡ High-throughput **FastAPI indexer** that normalizes on-chain events and powers dashboards and APIs
-- 🤖 **Keeper bot** automating settlement & rebalances via **Safe** batched transactions with resilient retry & logging
+- 🤖 **Keeper bot** automating settlement via **Safe** batched transactions with resilient retry & logging
 
 <div align="center">
 <a href="https://github.com/DAMM-Cap/damm-world-backend">
@@ -107,7 +130,7 @@ Modular vault systems, **EIP‑712** signing flows, **ERC‑1155** access models
 </a>
 </div>
 
-### 💎 DAMM Capital (Frontend)
+### 💎 OP as Venture Studio - DAMM Capital (Frontend)
 
 **Role:** Lead Developer @ **WakeUp Labs**
 
@@ -115,7 +138,7 @@ Modular vault systems, **EIP‑712** signing flows, **ERC‑1155** access models
 
 **Key Features:**
 
-- 🔐 **Account Abstraction (EIP 4337):** Privy smart wallet integration for easy user onboarding specifically for the **Lagoon DeFi** flow interaction
+- 🔐 **Account Abstraction (EIP 4337):** Privy smart wallet integration for easy user onboarding specifically for the **Lagoon vaults** flow interaction
 
 <div align="center">
 <a href="https://github.com/wakeuplabs-io/DAMM-capital">
@@ -131,9 +154,7 @@ Modular vault systems, **EIP‑712** signing flows, **ERC‑1155** access models
 
 **Stack:** `Next.js` `TypeScript` `Safe Smart Accounts`
 
-Smart-account driven mini-app for vault interaction and AMM strategies. Onboarding designed around **Safe Smart Accounts** for consistent UX across all wallet types.
-
-#### DAMM Capital
+Smart-account driven World mini-app for vault interaction and AMM strategies. Onboarding designed around **Safe Smart Accounts** for consistent UX across wallet types.
 
 <div align="center">
 <a href="https://github.com/DAMM-Cap/damm-world-frontend">
@@ -168,7 +189,7 @@ Decentralized **privacy vault** system featuring:
 
 **Role:** Lead Developer @ **Kleros**
 
-Led development and migration tooling including governance automation, cross-chain considerations, and comprehensive registry management.
+Led development and migration tooling including governance automation, cross-chain operability, and comprehensive registry management.
 
 <div align="center">
 <a href="https://github.com/Proof-Of-Humanity/proof-of-humanity-v2-web">
@@ -177,59 +198,29 @@ Led development and migration tooling including governance automation, cross-cha
 <a href="https://github.com/Proof-Of-Humanity/proof-of-humanity-v2-contracts">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Proof-Of-Humanity&repo=proof-of-humanity-v2-contracts&theme=dark&title_color=ff6a00&icon_color=ff6a00&bg_color=0b0b0b&border_color=ff6a00" alt="PoH Contracts" />
 </a>
-
+<a href="https://github.com/Proof-Of-Humanity/proof-of-humanity-v2-subgraph">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Proof-Of-Humanity&repo=proof-of-humanity-v2-subgraph&theme=dark&title_color=ff6a00&icon_color=ff6a00&bg_color=0b0b0b&border_color=ff6a00" alt="PoH Subgraphs" />
+</a>
 </div>
 
-<!-- ---
+</br>
 
-## 🛠️ Technologies
+## 🔧 Experience Highlights
 
-<div align="center">
-
-### 💻 Languages
-
-`TypeScript` `Python` `Solidity` `JavaScript`
-
-### ⚙️ Backend
-
-`FastAPI` `NestJS` `PostgreSQL` `Redis` `Docker` `Python`
-
-### 🎨 Frontend
-
-`Next.js` `React` `TailwindCSS` `viem` `wagmi` `TypeScript`
-
-### ⛓️ Blockchain & Web3
-
-`Safe SDK` `EIP‑712` `Permit2` `The Graph` `Foundry` `Hardhat` `Ethereum`
-
-### 🚀 Infrastructure & DevOps
-
-`Render` `GitHub Actions` `Pulumi` `Cloudflare` `Docker` `Git`
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,fastapi,solidity,react,nextjs,html,css,redux,nodejs,nest,ethereum,foundry,hardhat,postgres,prisma,docker,git,github,vscode,cursor,npm,yarn,reactquery,redis&perline=8&titles=true&theme=dark)
-
-</div>
- -->
-
----
+- **WakeUp Labs (From Sep, 2025).** Full-stack Web3 dev. `React`, `Typescript`, `Tanstack`, `Postgresql`, `Solidity`, `Foundry`, `Privy sdk`, `Python`, `FastAPI`, `Custom Indexers`, `Render`
+- **DAMM Capital (May to Sep, 2025).** Full-stack Web3 dev. `Nextjs`, `React`, `Typescript`, `Postgresql`, `Solidity`, `Foundry`, `Safe sdk`, `Python`, `FastAPI`, `Redis`, `Custom Indexers`, `Netlify`, `Render`
+- **Libélula (Mar to May, 2025).** Full-stack Web3 dev. `Nextjs`, `React`, `Typescript`, `Supabase`, `Solidity`, `Foundry`, `The Graph` (subgraphs), `Nodejs`, `Nestjs`, `Netlify`, `Render`
+- **Kleros (2023-2025).** Full-stack Web3 dev. `Nextjs`, `React`, `Typescript`, `Supabase`, `Solidity`, `Hardhat`, `The Graph` (subgraphs), `Nodejs`, `Nestjs`, `Netlify`
+- **Quasar Legal (2020-2023).** Full-stack dev. `React`, `Python`, `Heroku`, `Auth0`
+- **Legal Doctor (2019).** Full-stack dev. `React`, `Heroku`
+- **CONICET (2012-2023).** Research scientist with focus on AI applied to legal reasoning
 
 ## 🎓 Education & Background
 
-**Ph.D. in Computer Science (AI & Law) / Software Engineer**
-
-Research expertise in **symbolic AI** and **formal argumentation** applied to legal reasoning (Fulbright postdoc @University of Pittsburgh). I bring formal reasoning and rigorous mathematical thinking into protocol and product design, ensuring both technical excellence and logical soundness in every system I build.
-
-**M.Sc. in Law / Legal reasoning**
-
-Research specialization in legal argumentation with a focus in sujective reasoning, legal interpretation, discretionality and proof standardization models.
-
----
+- **Post-doc (Fulbright) @ University of Pittsburgh**. AI & Law.
+- **Ph.D. in Computer Science (AI & Law) / Software Engineer**. Research expertise in **symbolic AI** and **formal argumentation** applied to legal reasoning. Mixed formal reasoning and rigorous mathematical thinking into protocol design, ensuring both technical excellence and logical soundness in every formal system I built.
+- **M.Sc. in Law / Legal reasoning**. Research specialization in legal argumentation with a focus in sujective reasoning, legal interpretation, discretionality and proof standardization models.
+- **B.Sc. Computer Science / Software Engineering**. Research expertise in **symbolic AI** and **belief revision**.
 
 <br/>
 
@@ -245,8 +236,6 @@ Research specialization in legal argumentation with a focus in sujective reasoni
 </div>
 
 <br/>
-
----
 
 ## 📫 Contact & Connect
 
