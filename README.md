@@ -19,7 +19,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martillansky&hide=stars,issues&theme=dark&show=prs_merged&show_icons=true&hide_border=false&count_private=true&title_color=ff6a00&icon_color=ff6a00&bg_color=0b0b0b&border_color=ff6a00&include_all_commits=true&rank_icon=github)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martillansky&theme=dark&show_icons=true&hide_border=false&layout=compact&title_color=ff6a00&icon_color=ff6a00&bg_color=0b0b0b&border_color=ff6a00&langs_count=8)
 
-<sub>📝 <em>Note: Language stats reflect personal repos only. Most Python/FastAPI work is in organization repositories (WakeUp Labs, DAMM Capital) or forks.</em></sub>
+<sub>📝 <em>Note: Language stats reflect personal repos only. Most Python/FastAPI work is in organization repositories or forks.</em></sub>
 
 </div>
 
@@ -177,7 +177,7 @@ Decentralized **privacy vault** system featuring:
 <div align="center">
 <a href="https://github.com/martillansky/content-vault-contracts">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=martillansky&repo=content-vault-contracts&theme=dark&title_color=ff6a00&icon_color=ff6a00&bg_color=0b0b0b&border_color=ff6a00" alt="Libelula contracts" />
-</a>
+</a> 
 <a href="https://github.com/martillansky/content-vault-subgraphs">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=martillansky&repo=content-vault-subgraphs&theme=dark&title_color=ff6a00&icon_color=ff6a00&bg_color=0b0b0b&border_color=ff6a00" alt="Libelula subgraphs" />
 </a>
@@ -194,10 +194,10 @@ Led development and migration tooling including governance automation, cross-cha
 <div align="center">
 <a href="https://github.com/Proof-Of-Humanity/proof-of-humanity-v2-web">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Proof-Of-Humanity&repo=proof-of-humanity-v2-web&theme=dark&title_color=ff6a00&icon_color=ff6a00&bg_color=0b0b0b&border_color=ff6a00" alt="PoH Frontend" />
-</a>
+</a> 
 <a href="https://github.com/Proof-Of-Humanity/proof-of-humanity-v2-contracts">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Proof-Of-Humanity&repo=proof-of-humanity-v2-contracts&theme=dark&title_color=ff6a00&icon_color=ff6a00&bg_color=0b0b0b&border_color=ff6a00" alt="PoH Contracts" />
-</a>
+</a> 
 <a href="https://github.com/Proof-Of-Humanity/proof-of-humanity-v2-subgraph">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Proof-Of-Humanity&repo=proof-of-humanity-v2-subgraph&theme=dark&title_color=ff6a00&icon_color=ff6a00&bg_color=0b0b0b&border_color=ff6a00" alt="PoH Subgraphs" />
 </a>
@@ -230,9 +230,6 @@ Led development and migration tooling including governance automation, cross-cha
 
 ![GitHub Activity Graph](<https://github-readme-activity-graph.vercel.app/graph?username=martillansky&theme=redical&hide_border=false&area=true&custom_title=Recent%20Activity%20(31%20Days)&color=FF6A00&line=FF6A00&point=FF6A00&bg_color=0b0b0b&height=300&width=200>)
 
-![Contribution Grid Snake](https://raw.githubusercontent.com/martillansky/martillansky/gh-pages/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Contribution Grid Snake](https://raw.githubusercontent.com/martillansky/martillansky/gh-pages/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 </div>
 
 <br/>
@@ -241,10 +238,9 @@ Led development and migration tooling including governance automation, cross-cha
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧%20Email-you%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0b0b)](mailto:martin.moguillansky@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0b0b)](https://linkedin.example/martin)
-[![Twitter](https://img.shields.io/badge/🐦%20Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0b0b0b)](https://twitter.example/martin)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-ff6a00?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0b0b0b)](https://example.com)
+[![Email](https://img.shields.io/badge/📧%20Email-martin.moguillansky%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0b0b)](mailto:martin.moguillansky@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0b0b)](https://www.linkedin.com/in/martin-moguillansky/)
+[![Twitter](https://img.shields.io/badge/🐦%20Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0b0b0b)](https://x.com/TinchoLansky)
 
 </div>
 
