@@ -1,23 +1,7 @@
 <!-- Header SVG (Orange & Black) -->
 
 <p align="center">
-  <svg width="920" height="220" viewBox="0 0 920 220" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#000000;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#ff6a00;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <!-- Background -->
-    <rect width="920" height="220" fill="#0b0b0b"/>
-    <!-- Decorative ribbon -->
-    <path d="M0,170 C200,120 320,220 520,180 C700,145 820,170 920,130 L920,220 L0,220 Z" fill="url(#headerGradient)" opacity="0.28"/>
-    <!-- Text -->
-    <text x="48" y="70" font-size="34" font-weight="700" fill="#fff" font-family="Arial, sans-serif">Martin Moguillansky (PhD)</text>
-    <text x="48" y="100" font-size="18" fill="#ffb27a" font-family="Arial, sans-serif">Full-Stack Web3 Engineer</text>
-    <text x="48" y="130" font-size="14" fill="#d7d7d7" font-family="Arial, sans-serif">DeFi - DAOs - Smart Accounts - AA - Game theory - Decision making - Symbolic AI - Formal argumentation</text>
-    <text x="48" y="160" font-size="14" fill="#d7d7d7" font-family="Arial, sans-serif">WakeUp Labs - Lead dev @ OP as Venture Studio</text>
-  </svg>
+  <img src="./assets/header.svg" alt="Martin Moguillansky (PhD) — Full-Stack Web3 Engineer" width="920" height="220" />
 </p>
 
 <div align="center">
