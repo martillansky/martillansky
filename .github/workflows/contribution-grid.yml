@@ -1,0 +1,43 @@
+name: Generate Contribution Grid Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: martillansky
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          colors: "#0b0b0b,#ff6a00"
+          svg_animate: true
+
+      - name: Generate dark mode variant
+        uses: platane/snk@master
+        id: snake-gif-dark
+        with:
+          github_user_name: martillansky
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg
+          gif_out_path: dist/github-contribution-grid-snake-dark.gif
+          colors: "#0b0b0b,#ff6a00"
+          svg_animate: true
+
+      - name: Push to dist branch
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: gh-pages
+          keep_files: false

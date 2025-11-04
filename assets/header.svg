@@ -1,0 +1,29 @@
+<svg width="920" height="220" viewBox="0 0 920 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Martin Moguillansky (PhD) — Full-Stack Web3 Engineer">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#ff6a00"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff6a00"/>
+      <stop offset="100%" stop-color="#ff8c33"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- Background ribbon -->
+  <rect x="0" y="0" width="920" height="220" fill="#0b0b0b"/>
+  <path d="M0,170 C200,120 320,220 520,180 C700,145 820,170 920,130 L920,220 L0,220 Z" fill="url(#g1)" opacity="0.28"/>
+
+  <!-- Text -->
+  <g font-family="'SF Pro Display', Inter, Roboto, Arial, sans-serif" fill="#fff">
+    <text x="48" y="70" font-size="34" font-weight="700">Martin Moguillansky (PhD)</text>
+    <text x="48" y="100" font-size="18" fill="#ffb27a">Full-Stack Web3 Engineer</text>
+    <text x="48" y="130" font-size="14" fill="#d7d7d7">DeFi - DAOs - Smart Accounts - AA - Game theory - Decision making - Symbolic AI - Formal argumentation</text>
+    <text x="48" y="160" font-size="14" fill="#d7d7d7">WakeUp Labs - Lead dev @ OP as Venture Studio</text>
+  </g>
+</svg>
+
+
