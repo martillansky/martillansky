@@ -205,6 +205,24 @@ Led development and migration tooling including governance automation, cross-cha
 
 </br>
 
+## ⚡ Research Notes
+
+<p align="left">
+  <a href="https://gist.github.com/your-gist-id">
+    <img alt="Research Note" src="https://img.shields.io/badge/Research%20Note-Decentralized%20Justice-ff6a00?style=flat-square&labelColor=0b0b0b&color=ff6a00">
+  </a>
+</p>
+
+🔬 [Towards a Decentralized Justice Protocol Through Neuro-Symbolic Artificial Intelligence](https://gist.github.com/martillansky/f82fdaf9f7446d31b8fc6094a7339e35.js). While leading technical development at Kleros, I explored how symbolic AI and formal reasoning could enhance the design of decentralized justice protocols. I summarized that proposal in this introductory note which reflects my broader interest in bridging AI reasoning systems and blockchain dispute resolution to enable more autonomous, fair, and interpretable decision processes towards on-chain legal independency. This note was submitted (but rejected) for presentation at DevCon 2024.
+
+<p align="left">
+  <a href="https://github.com/martillansky/research/blob/main/IEEE%202020.pdf">
+    <img alt="IEEE Paper 2020" src="https://img.shields.io/badge/IEEE%20Paper-Belief%20Revision%20%26%20Argumentation-ff6a00?style=flat-square&labelColor=0b0b0b&color=ff6a00">
+  </a>
+</p>
+
+📘 [IEEE Paper (2020) — Fact Investigation and Proof Standards in Legal Argumentation](https://github.com/martillansky/research/blob/main/IEEE%202020.pdf). This article is part of my scientific work exploring how **formal argumentation** and **semi-automatic reasoning systems** can model **decision-making** and **normative conflict resolution** when subjective beliefs and interpretative structures are introduced. These were the main concepts that later influenced my research at Kleros.
+
 ## 🔧 Experience Highlights
 
 - **WakeUp Labs (From Sep, 2025).** Full-stack Web3 dev. `React`, `Typescript`, `Tanstack`, `Postgresql`, `Solidity`, `Foundry`, `Privy sdk`, `Python`, `FastAPI`, `Custom Indexers`, `Render`
