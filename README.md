@@ -112,11 +112,13 @@ I also build keeper bots and automation pipelines powered by Safe-based batched 
 
 ## 🚩 Web3 Open Source Projects
 
-### 💎 OP as Venture Studio - DAMM Capital — Lagoon (Backend)
+### 💎 WakeUp Labs - DAMM Capital - OP as Venture Studio initiative
+
+<!-- ### 💎 OP as Venture Studio - DAMM Capital — Lagoon (Backend) -->
 
 **Role:** Lead Developer @ **WakeUp Labs & DAMM Capital**
 
-**Stack:** `Python` `FastAPI` `PostgreSQL` `Docker` `Render` `Solidity` `Safe SDK`
+**Backend Stack:** `Python` `FastAPI` `PostgreSQL` `Docker` `Render` `Solidity` `Safe SDK`
 
 **Key Features:**
 
@@ -130,11 +132,13 @@ I also build keeper bots and automation pipelines powered by Safe-based batched 
 </a>
 </div>
 
-### 💎 OP as Venture Studio - DAMM Capital (Frontend)
+<!-- ### 💎 OP as Venture Studio - DAMM Capital (Frontend)
 
-**Role:** Lead Developer @ **WakeUp Labs**
+**Role:** Lead Developer @ **WakeUp Labs** -->
 
-**Stack:** `Typescript` `React` `Tanstack` `Privy`
+</br>
+
+**Frontend Stack:** `Typescript` `React` `Tanstack` `Privy`
 
 **Key Features:**
 
@@ -146,13 +150,15 @@ I also build keeper bots and automation pipelines powered by Safe-based batched 
 </a>
 </div>
 
----
+<!-- ---
 
 ### 🌍 DAMM World — Mini-app
 
-**Role:** Lead Developer @ **DAMM Capital**
+**Role:** Lead Developer @ **DAMM Capital** -->
 
-**Stack:** `Next.js` `TypeScript` `Safe Smart Accounts`
+</br>
+
+**Miniapp Stack:** `Next.js` `TypeScript` `Safe Smart Accounts`
 
 Smart-account driven World mini-app for vault interaction and AMM strategies. Onboarding designed around **Safe Smart Accounts** for consistent UX across wallet types.
 
@@ -225,8 +231,7 @@ Led development and migration tooling including governance automation, cross-cha
 
 ## 🔧 Experience Highlights
 
-- **WakeUp Labs (From Sep, 2025).** Full-stack Web3 dev. `React`, `Typescript`, `Tanstack`, `Postgresql`, `Solidity`, `Foundry`, `Privy sdk`, `Python`, `FastAPI`, `Custom Indexers`, `Render`
-- **DAMM Capital (May to Sep, 2025).** Full-stack Web3 dev. `Nextjs`, `React`, `Typescript`, `Postgresql`, `Solidity`, `Foundry`, `Safe sdk`, `Python`, `FastAPI`, `Redis`, `Custom Indexers`, `Netlify`, `Render`
+- **WakeUp Labs - DAMM Capital (From May, 2025).** Full-stack Web3 dev. `Nextjs`, `React`, `Typescript`, `Tanstack`, `Postgresql`, `Solidity`, `Foundry`, `Privy sdk`, `Safe sdk`, `Python`, `FastAPI`, `Redis`, `Custom Indexers`, `Netlify`, `Render`
 - **Libélula (Mar to May, 2025).** Full-stack Web3 dev. `Nextjs`, `React`, `Typescript`, `Supabase`, `Solidity`, `Foundry`, `The Graph` (subgraphs), `Nodejs`, `Nestjs`, `Netlify`, `Render`
 - **Kleros (2023-2025).** Full-stack Web3 dev. `Nextjs`, `React`, `Typescript`, `Supabase`, `Solidity`, `Hardhat`, `The Graph` (subgraphs), `Nodejs`, `Nestjs`, `Netlify`
 - **Quasar Legal (2020-2023).** Full-stack dev. `React`, `Python`, `Heroku`, `Auth0`
@@ -235,10 +240,14 @@ Led development and migration tooling including governance automation, cross-cha
 
 ## 🎓 Education & Background
 
-- **Post-doc (Fulbright) @ University of Pittsburgh**. AI & Law.
-- **Ph.D. in Computer Science (AI & Law) / Software Engineer**. Research expertise in **symbolic AI** and **formal argumentation** applied to legal reasoning. Mixed formal reasoning and rigorous mathematical thinking into protocol design, ensuring both technical excellence and logical soundness in every formal system I built.
-- **M.Sc. in Law / Legal reasoning**. Research specialization in legal argumentation with a focus in sujective reasoning, legal interpretation, discretionality and proof standardization models.
-- **B.Sc. Computer Science / Software Engineering**. Research expertise in **symbolic AI** and **belief revision**.
+- **Post-doc (Fulbright) @University of Pittsburgh, 2017**. Artificial Intelligence & Law.
+- **Ph.D. in Computer Science (AI & Law) / Software Engineer @Universidad Nacional del Sur (UNS), 2011**. Research expertise in **symbolic AI** and **formal argumentation** applied to legal reasoning. Mixed formal reasoning and rigorous mathematical thinking into protocol design, ensuring both material correctness and logical soundness in every formal system I built.
+- **M.Sc. in Computer Science @Hebrew University of Jerusalem, 2005**. Focus on distributed data and management on internet. (Thesis unfinished, turned to PhD. @UNS)
+- **B.Sc. Computer Science / Software Engineering @UNS, 2003**. Research expertise in **symbolic AI** and **belief revision**.
+
+<br/>
+
+- **M.Sc. in Law / Legal reasoning @UNS, 2018**. Research specialization in legal argumentation with a focus in sujective reasoning, legal interpretation, discretionality and proof standardization models.
 
 <br/>
 
